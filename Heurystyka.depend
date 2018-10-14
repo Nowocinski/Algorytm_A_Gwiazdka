@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1539536637 source:c:\users\vito\desktop\heurystyka\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<math.h>
+	<windows.h>
+
+1539536637 source:c:\users\vito\desktop\algorytm_a_gwiazdka\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<math.h>
+	<windows.h>
+
